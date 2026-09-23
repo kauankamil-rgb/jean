@@ -1,0 +1,21 @@
+{
+  "name": "Step by Step Pavers",
+  "short_name": "Step by Step",
+  "description": "Paver and stone contractor in the Tampa Bay area, Florida.",
+  "start_url": "/jean/",
+  "display": "browser",
+  "background_color": "#053647",
+  "theme_color": "#053647",
+  "icons": [
+    {
+      "src": "/jean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/jean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
